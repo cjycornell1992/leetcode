@@ -6,8 +6,7 @@ However, solutions posted here are not guaranteed to be correct. This repository
 Current Solution
 ================
 
-By Junyin Chen:
-================
+## By Junyin Chen:
 C:
 01,02,05,06,07,08
 
